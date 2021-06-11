@@ -6,3 +6,4 @@ def user_info(name,age=0,city="Matara"):
 
 user_info("Chanuka",58,"Matara")
 user_info("Chanuka")
+
